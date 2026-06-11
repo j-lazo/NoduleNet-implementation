@@ -21,7 +21,7 @@ logs*/
 *.err
 *.so
 *.o
-
+*.sh
 
 # Models/checkpoints
 *.pt
@@ -40,3 +40,6 @@ logs*/
 
 project.def
 project.sif
+*.sh
+*.sh
+*.sh
